@@ -6,7 +6,7 @@ Yêu cầu cài đặt:
 + nodeJS
 + truflle framework
 + ganache
-+ metaMark - để  sử dụng block của mạng Ethereum
++ Cài đặt metamask để kết nối với webapp và thực hiện giao dịch trên trình duyệt tại https://metamask.io/
 
 Các bước sử dụng:
 Bước 1: kiểm tra cài đặt
@@ -21,3 +21,5 @@ Bước 2 :complite smart contract
  
 Bước 3: khởi động App
 + npm run dev 
+
+Sử dụng browser http://localhost:3000 vào web để xem giao diện
