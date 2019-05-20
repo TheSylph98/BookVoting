@@ -1,5 +1,6 @@
 # BookVoting
 SmartContract
+bài viết tham khảo từ http://www.dappuniversity.com/articles/the-ultimate-ethereum-dapp-tutorial và https://youtu.be/3681ZYbDSSk
 Yêu cầu cài đặt:
 + nodeJS
 + truflle framework
